@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">thisiconsucks</string>
+    <string name="logIn">Login</string>
+    <string name="logout">Log out</string>
+</resources>

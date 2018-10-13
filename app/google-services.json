@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "197083472888",
+    "firebase_url": "https://dorabag-464cc.firebaseio.com",
+    "project_id": "dorabag-464cc",
+    "storage_bucket": "dorabag-464cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197083472888:android:71ff5fbcad559937",
+        "android_client_info": {
+          "package_name": "com.example.gocool.thisiconsucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197083472888-i7l116497p3d0r814nl3rsod3m6mchg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gocool.thisiconsucks",
+            "certificate_hash": "e17f8d10d917b83bebcea26616ced6d1d57de6f6"
+          }
+        },
+        {
+          "client_id": "197083472888-50hm2a1mqq4pri931nmehkta15s8lhp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeBUsi3v2PzbG8OoqriTTVDehc0OEk5QQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197083472888-50hm2a1mqq4pri931nmehkta15s8lhp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
